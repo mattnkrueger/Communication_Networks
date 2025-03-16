@@ -1,5 +1,5 @@
 # ECE:3540 - Communication Networks (Fall 2024)
-Instructor: Professor Tyler Bell, University of Iowa
+**Instructor:** Professor Tyler Bell, University of Iowa
 
 ## Course Description
 
